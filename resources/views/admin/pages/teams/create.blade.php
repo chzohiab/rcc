@@ -10,7 +10,7 @@
                     <a href="{{ route('Dashboard') }}">Dashboard</a>
                 </li>
                 <li>
-                    <a href="{{ route('clubs') }}">Clubs</a>
+                    <a href="{{ route('clubs') }}">Clbs</a>
                 </li>
                 <li>
                     <span>Create</a>
